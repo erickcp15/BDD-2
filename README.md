@@ -14,3 +14,5 @@ https://github.com/erickcp15/Beer-Drinkers-Delight
   * Website: Visit our site
 
 ### https://bdd-2.herokuapp.com/
+
+![](Images/Map.png)
